@@ -3,8 +3,6 @@
 I'm a **final-year B.Sc. IT student** passionate about software development, web technologies, and building real-world projects. I love turning ideas into working applications and continuously upgrading my tech skills.
 
 🔭 Currently working on **full-stack projects**  
-💡 Interested in **Web Dev, Java, C#, APIs, and AI basics**  
-🎯 Seeking an **entry-level IT Programmer / Software Developer role**
 
 ---
 
